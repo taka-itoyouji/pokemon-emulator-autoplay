@@ -1,0 +1,17 @@
+step,elapsed_sec,scene,action_kind,action_key,action_ds_x,action_ds_y
+0,7.756,UNKNOWN,key,right,,
+1,7.772,UNKNOWN,-,-,-,-
+2,7.871,UNKNOWN,-,-,-,-
+3,8.053,UNKNOWN,key,right,,
+4,8.071,UNKNOWN,-,-,-,-
+5,8.171,UNKNOWN,-,-,-,-
+6,8.352,UNKNOWN,key,up,,
+7,13.619,UNKNOWN,key,down,,
+8,18.935,UNKNOWN,key,right,,
+9,23.801,UNKNOWN,key,right,,
+10,29.17,UNKNOWN,key,right,,
+11,33.921,UNKNOWN,key,right,,
+12,39.168,UNKNOWN,key,right,,
+13,43.956,UNKNOWN,key,right,,
+14,48.785,UNKNOWN,key,right,,
+15,53.597,UNKNOWN,key,right,,

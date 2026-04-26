@@ -1,0 +1,15 @@
+# requirements.txt
+# DeSmuME ポケモン DS 自動プレイ 依存ライブラリ
+
+mss>=9.0
+Pillow>=10.0
+numpy>=1.24
+opencv-python>=4.8
+pyautogui>=0.9.54
+pynput>=1.7
+
+# Windows のみ必要（Linux では不要）
+# pywin32>=306
+
+# Linux では以下をシステムでインストール
+# sudo apt install xdotool wmctrl
